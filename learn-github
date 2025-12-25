@@ -1,12 +1,12 @@
 LEARN GITHUB
-Level 0 - Fondasi (24/12/2025)
+LEVEL 0 - Fondasi (24/12/2025) #Completed
   Tujuan: Paham Git vs GitHub
   Konsep: Git, GitHub, Alur kerja dasar, Istilah inti
   Latihan:
       1. Buat 1 repository kosong
       2. Upload file lewat GitHub web
       3. Edit file → commit
-LEVEL 1 — Git Dasar (24/12/2025 - 25/12/2025)
+LEVEL 1 — Git Dasar (24/12/2025 - 25/12/2025) #On Progress
   Tujuan: Bisa kerja sendiri tanpa rusak repo
   Konsep: Working directory, Staging area, Commit history
   Latihan:
