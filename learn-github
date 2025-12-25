@@ -1,12 +1,12 @@
 LEARN GITHUB
-Level 0 - Fondasi
+Level 0 - Fondasi (24/12/2025)
   Tujuan: Paham Git vs GitHub
   Konsep: Git, GitHub, Alur kerja dasar, Istilah inti
   Latihan:
       1. Buat 1 repository kosong
       2. Upload file lewat GitHub web
       3. Edit file → commit
-LEVEL 1 — Git Dasar
+LEVEL 1 — Git Dasar (24/12/2025 - 25/12/2025)
   Tujuan: Bisa kerja sendiri tanpa rusak repo
   Konsep: Working directory, Staging area, Commit history
   Latihan:
@@ -14,7 +14,7 @@ LEVEL 1 — Git Dasar
       2. Buat branch baru
       3. Pindah branch
       4. Kembali ke main
-LEVEL 2 — GitHub Workflow
+LEVEL 2 — GitHub Workflow (26/12/2025 - 27/12/2025)
   Tujuan: Paham cara kerja tim
   Konsep: Local vs Remote, Pull vs Push, Conflict, Pull Request
   Latihan:
@@ -22,19 +22,19 @@ LEVEL 2 — GitHub Workflow
       2. Edit file
       3. Merge ke main
       4. Simulasikan conflict
-LEVEL 3 — GitHub untuk PORTOFOLIO
+LEVEL 3 — GitHub untuk PORTOFOLIO (29/12/2025 - 30/12/2025)
   Tujuan: GitHub kamu terlihat “niat & profesional”
   Latihan:
       1. Buat 1 project Excel
       2. Jelaskan step by step
       3. Tambahkan screenshot
-LEVEL 4 — GitHub untuk Excel & Data Analyst
+LEVEL 4 — GitHub untuk Excel & Data Analyst (31/12/2025 - 1/1/2026)
   Tujuan: GitHub bukan cuma buat programmer
   Latihan: 
       1. Pisahkan raw vs cleaned
       2. Jelaskan perubahan
       3. Dokumentasikan logika Excel
-LEVEL 5 — Advanced
+LEVEL 5 — Advanced (2/1/2026 - 3/1/2026)
   Tujuan: Tampil profesional & beda 
   Latihan:
       1. Buat GitHub Projects
