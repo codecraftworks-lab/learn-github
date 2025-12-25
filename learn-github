@@ -1,0 +1,42 @@
+LEARN GITHUB
+Level 0 - Fondasi
+  Tujuan: Paham Git vs GitHub
+  Konsep: Git, GitHub, Alur kerja dasar, Istilah inti
+  Latihan:
+      1. Buat 1 repository kosong
+      2. Upload file lewat GitHub web
+      3. Edit file → commit
+LEVEL 1 — Git Dasar
+  Tujuan: Bisa kerja sendiri tanpa rusak repo
+  Konsep: Working directory, Staging area, Commit history
+  Latihan:
+      1. Edit file → commit (3x)  
+      2. Buat branch baru
+      3. Pindah branch
+      4. Kembali ke main
+LEVEL 2 — GitHub Workflow
+  Tujuan: Paham cara kerja tim
+  Konsep: Local vs Remote, Pull vs Push, Conflict, Pull Request
+  Latihan:
+      1. Clone repoBuat branch dev
+      2. Edit file
+      3. Merge ke main
+      4. Simulasikan conflict
+LEVEL 3 — GitHub untuk PORTOFOLIO
+  Tujuan: GitHub kamu terlihat “niat & profesional”
+  Latihan:
+      1. Buat 1 project Excel
+      2. Jelaskan step by step
+      3. Tambahkan screenshot
+LEVEL 4 — GitHub untuk Excel & Data Analyst
+  Tujuan: GitHub bukan cuma buat programmer
+  Latihan: 
+      1. Pisahkan raw vs cleaned
+      2. Jelaskan perubahan
+      3. Dokumentasikan logika Excel
+LEVEL 5 — Advanced
+  Tujuan: Tampil profesional & beda 
+  Latihan:
+      1. Buat GitHub Projects
+      2. Publish portfolio page
+      3. Link ke CV & LinkedIn
